@@ -1,0 +1,9 @@
+Do you want to pick up queen of spades?y
+Do you want to pick up 2 of clubs?n
+Do you want to pick up 3 of diamonds?n
+Do you want to pick up jack of spades?y
+Do you want to pick up queen of hearts?y
+Your new hand is:
+queen of spades
+jack of spades
+queen of hearts
